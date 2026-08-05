@@ -1,0 +1,5 @@
+cluster,persona_name,user_percentage,daily_listening_minutes,sessions_per_day,days_active_last_30,skip_rate,repeat_track_rate,genre_diversity_score,primary_need,primary_recommendation
+0,Casual Snackers,25.5,42,1.8,9,0.62,0.2,0.3,Simple value and low-effort re-engagement,Short familiar playlists and habit-building journeys
+1,Exploratory Samplers,22.3,92,3.8,18,0.45,0.36,0.83,"Variety, discovery and fresh content",Cross-genre discovery and new-release recommendations
+2,Habitual Loyalists,28.6,155,5.5,25,0.27,0.68,0.52,"Reliability, familiarity and recognition","Artist updates, repeat mixes and loyalty experiences"
+3,Power Streamers,23.6,235,8.2,29,0.14,0.59,0.64,Advanced personalization and uninterrupted value,"Premium messaging, advanced personalization and long-session mixes"

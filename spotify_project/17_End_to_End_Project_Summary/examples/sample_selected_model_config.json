@@ -1,0 +1,17 @@
+{
+  "project_status": "illustrative_final_summary",
+  "selected_model": {
+    "algorithm": "KMeans",
+    "preprocessing": "StandardScaler",
+    "n_clusters": 4,
+    "random_state": 42,
+    "selection_reason": "Best overall balance of separation, stability, cluster balance, business interpretability and deployment simplicity."
+  },
+  "comparison_model": {
+    "algorithm": "GaussianMixture",
+    "n_components": 4,
+    "covariance_type": "full",
+    "purpose": "Soft-membership comparison and uncertainty analysis"
+  },
+  "important_note": "Replace illustrative metrics and values with actual project outputs before using this summary as a production or client report."
+}

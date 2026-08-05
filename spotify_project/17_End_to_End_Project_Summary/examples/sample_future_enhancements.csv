@@ -1,0 +1,11 @@
+enhancement_id,enhancement,business_value,priority
+FE-01,Automated scheduled pipeline,Repeatable monthly or weekly segmentation,High
+FE-02,Model and artifact registry,Traceability and rollback,High
+FE-03,Cluster-drift monitoring,Early warning when segment behavior changes,High
+FE-04,Persona migration analysis,Understand how users move between personas,Medium
+FE-05,Time-aware behavioral features,Improve sensitivity to recent behavior,High
+FE-06,Streaming or near-real-time scoring,Support timely personalization,Low
+FE-07,Experiment tracking platform,Compare runs and decisions consistently,High
+FE-08,Interactive business dashboard,Enable self-service monitoring,Medium
+FE-09,Controlled growth experimentation,Measure incremental business impact,High
+FE-10,Fairness and privacy review automation,Improve responsible use of segmentation,High

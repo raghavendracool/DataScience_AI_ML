@@ -1,0 +1,9 @@
+,daily_listening_minutes,sessions_per_day,avg_session_minutes,days_active_last_30,skip_rate,ads_skipped_pct,repeat_track_rate,genre_diversity_score
+daily_listening_minutes,1.0,0.8233,0.1363,0.7924,-0.7084,0.8579,0.6771,0.3347
+sessions_per_day,0.8233,1.0,-0.2148,0.8006,-0.7183,0.7101,0.6696,0.36
+avg_session_minutes,0.1363,-0.2148,1.0,-0.037,0.0355,0.1194,-0.0263,-0.0335
+days_active_last_30,0.7924,0.8006,-0.037,1.0,-0.7193,0.6895,0.7117,0.4116
+skip_rate,-0.7084,-0.7183,0.0355,-0.7193,1.0,-0.6096,-0.6229,-0.3061
+ads_skipped_pct,0.8579,0.7101,0.1194,0.6895,-0.6096,1.0,0.5792,0.2946
+repeat_track_rate,0.6771,0.6696,-0.0263,0.7117,-0.6229,0.5792,1.0,0.2244
+genre_diversity_score,0.3347,0.36,-0.0335,0.4116,-0.3061,0.2946,0.2244,1.0

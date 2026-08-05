@@ -1,0 +1,9 @@
+challenge_id,challenge,response,project_stage
+CH-01,Mixed feature scales,"Compared StandardScaler, RobustScaler and transformation pipelines",Preprocessing
+CH-02,Skewed numerical distributions,"Tested log, power and quantile transformations where appropriate",Transformation
+CH-03,Redundant or overlapping features,"Used correlation, variance and business relevance review",Feature Selection
+CH-04,No true cluster labels,"Combined internal metrics, stability, balance and business review",Evaluation
+CH-05,Metrics preferred different candidates,Used a multi-dimensional decision framework instead of one score,Model Selection
+CH-06,Cluster numbers had no business meaning,"Built cluster profiles, relative comparisons and persona naming evidence",Profiling
+CH-07,Persona recommendations could become assumptions,"Separated observation, interpretation and action hypothesis",Growth Strategy
+CH-08,Model results may drift over time,"Defined future monitoring, refresh and retraining requirements",Future MLOps

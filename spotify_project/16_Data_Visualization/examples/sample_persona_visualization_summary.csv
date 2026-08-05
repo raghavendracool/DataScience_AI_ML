@@ -1,0 +1,5 @@
+persona,users,avg_listening_minutes,avg_sessions,avg_active_days,avg_skip_rate,avg_repeat_rate,avg_genre_diversity,premium_conversion_rate,avg_monthly_revenue,user_percentage
+Casual Snackers,665,41.9667,1.8122,9.0556,0.6705,0.2502,0.2727,0.2135,2.5595,27.7083
+Exploratory Samplers,564,93.1632,3.7269,18.1809,0.5021,0.3847,0.7763,0.3067,3.0457,23.5
+Habitual Loyalists,632,157.5328,5.5487,24.9335,0.2903,0.7694,0.5052,0.4399,3.6795,26.3333
+Power Streamers,539,233.4725,8.1788,28.7291,0.1713,0.7194,0.6333,0.5881,4.4515,22.4583

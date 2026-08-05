@@ -1,0 +1,5 @@
+persona_name,recommendation_area,primary_action,primary_kpi,guardrail_kpi
+Casual Snackers,Engagement and reactivation,Test short personalized re-entry playlists and low-frequency reminders,30-day retained activity,Notification opt-out and complaints
+Exploratory Samplers,Discovery and Premium trials,Test cross-genre discovery journeys and discovery-led Premium trials,Discovery save rate and trial activation,Skip rate and session abandonment
+Habitual Loyalists,Retention and loyalty,"Test artist updates, repeat mixes and loyalty recognition",90-day retention,Reward cost and notification opt-out
+Power Streamers,Premium conversion and experience quality,Test ad-free Premium messaging and advanced personalization,Incremental Premium conversion,"Churn, complaints and retained Premium status"

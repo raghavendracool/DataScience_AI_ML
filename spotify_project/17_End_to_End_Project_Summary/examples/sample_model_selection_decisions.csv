@@ -1,0 +1,6 @@
+candidate_id,algorithm,preprocessing,clusters_or_components,silhouette_score,davies_bouldin_index,stability_score,cluster_balance_score,business_interpretability_score,deployment_simplicity_score,status,decision_reason
+KM_STD_K3,K-Means,StandardScaler,3,0.41,0.88,0.89,0.84,0.8,0.96,REJECTED,Too broad; three groups hide meaningful behavioral differences
+KM_STD_K4,K-Means,StandardScaler,4,0.47,0.72,0.95,0.93,0.96,0.95,SELECTED,"Best overall balance of technical quality, stability, simplicity and business meaning"
+KM_ROB_K4,K-Means,RobustScaler,4,0.44,0.79,0.92,0.9,0.91,0.94,SHORTLISTED,Strong alternative but slightly weaker separation
+GMM_PWR_C4_FULL,GMM,PowerTransformer,4,0.45,0.76,0.88,0.87,0.84,0.72,SHORTLISTED,Useful soft-membership comparison but more operational complexity
+GMM_STD_C5_DIAG,GMM,StandardScaler,5,0.39,0.91,0.81,0.78,0.73,0.75,REJECTED,Lower stability and weaker business interpretation

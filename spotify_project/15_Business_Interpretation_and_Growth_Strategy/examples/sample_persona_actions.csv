@@ -1,0 +1,9 @@
+action_id,persona,action,estimated_impact,estimated_effort,confidence,risk_score
+ACT-001,Casual Snackers,Launch short personalized re-engagement playlists,8.5,4.1,0.72,3.1
+ACT-002,Exploratory Samplers,Create cross-genre discovery journeys,7.7,6.2,0.68,4.2
+ACT-003,Habitual Loyalists,Send artist and playlist continuity updates,8.1,4.8,0.76,2.8
+ACT-004,Power Streamers,Test Premium value messaging for uninterrupted listening,9.3,5.3,0.74,4.4
+ACT-005,Casual Snackers,Reduce notification frequency for inactive users,6.4,2.3,0.81,2.0
+ACT-006,Exploratory Samplers,Test Premium trial after high discovery engagement,7.5,5.7,0.63,4.0
+ACT-007,Habitual Loyalists,Create loyalty milestones and retention rewards,7.9,6.0,0.66,3.7
+ACT-008,Power Streamers,Reduce ad pressure for high-friction users,8.8,4.9,0.71,4.5

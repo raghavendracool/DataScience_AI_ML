@@ -1,0 +1,12 @@
+strategy_area,primary_kpi,guardrail_kpi
+Personalized Recommendations,Recommendation engagement rate,Skip rate and complaint rate
+Premium Conversion,Premium conversion rate,Unsubscribe and negative feedback
+Retention,30/60/90-day retention,Notification opt-out rate
+Churn Reduction,Churn rate,False-positive intervention rate
+Advertisement Optimization,Ad completion and session continuation,Session abandonment and ad fatigue
+Playlist Recommendations,Playlist start and completion rate,Playlist skip rate
+Discovery,Discovery save/follow rate,Recommendation fatigue
+Loyalty Rewards,Reward participation and retained activity,Reward cost and abuse
+User Engagement,Active days and listening minutes,Session quality and well-being limits
+Customer Lifetime Value,Contribution-margin CLV,Acquisition and service cost
+Revenue Growth,Incremental revenue,Margin and customer experience

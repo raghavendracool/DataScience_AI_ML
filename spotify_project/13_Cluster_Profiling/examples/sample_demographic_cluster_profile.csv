@@ -1,0 +1,5 @@
+cluster,user_count,avg_age,avg_tenure_months,mobile_pct,desktop_pct,tablet_pct,tier1_pct,tier2_pct,tier3_pct
+Cluster 0,27500,26.8,8.2,72,18,10,46,34,20
+Cluster 1,24100,23.4,11.5,81,10,9,52,31,17
+Cluster 2,30900,31.2,29.4,64,23,13,39,37,24
+Cluster 3,25500,29.6,42.8,58,28,14,44,36,20

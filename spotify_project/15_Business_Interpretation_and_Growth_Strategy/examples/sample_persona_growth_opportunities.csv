@@ -1,0 +1,5 @@
+persona,engagement_opportunity,retention_priority,premium_potential,ad_optimization_priority,loyalty_opportunity,discovery_opportunity
+Casual Snackers,0.92,0.94,0.21,0.43,0.26,0.34
+Exploratory Samplers,0.71,0.72,0.56,0.58,0.49,0.98
+Habitual Loyalists,0.54,0.81,0.68,0.64,0.96,0.52
+Power Streamers,0.31,0.57,0.95,0.89,0.84,0.67

@@ -1,0 +1,9 @@
+action_id,persona,business_problem,evidence,action_hypothesis,primary_kpi,guardrail_kpis,owner
+ACT-001,Casual Snackers,Low retained activity,Low activity and short sessions,Launch short personalized re-engagement playlists,30-day retained activity,Unsubscribe rate; complaint rate,Lifecycle Marketing
+ACT-002,Exploratory Samplers,Discovery engagement can be improved,High exploration signals,Create cross-genre discovery journeys,Discovery save rate,Skip rate; session abandonment,Recommendations
+ACT-003,Habitual Loyalists,Protect loyal-user retention,High repeat and consistency,Send artist and playlist continuity updates,90-day retention,Notification opt-out; reward cost,Retention
+ACT-004,Power Streamers,High ad friction and Premium opportunity,High engagement and ad skipping,Test Premium value messaging for uninterrupted listening,Premium conversion,Churn; negative feedback,Premium Growth
+ACT-005,Casual Snackers,Notification fatigue risk,Low activity with weak response,Reduce notification frequency for inactive users,Notification opt-out rate,30-day activity; reactivation,Lifecycle Marketing
+ACT-006,Exploratory Samplers,Convert strong discovery value into trial,Strong discovery engagement,Test Premium trial after high discovery engagement,Trial activation,Trial cancellation; complaints,Premium Growth
+ACT-007,Habitual Loyalists,Recognize and retain loyal behavior,Strong loyalty indicators,Create loyalty milestones and retention rewards,90-day retention,Reward cost; abuse rate,Retention
+ACT-008,Power Streamers,Protect long sessions from ad fatigue,High session depth and ad friction,Reduce ad pressure for high-friction users,Session continuation,Ad revenue; churn,Advertising Product

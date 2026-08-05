@@ -1,0 +1,5 @@
+cluster,segment_name,persona_name,status
+0,Low-engagement listeners,Casual Snackers,REVIEWED
+1,Discovery-focused listeners,Exploratory Samplers,REVIEWED
+2,Loyal repeat listeners,Habitual Loyalists,REVIEWED
+3,High-engagement listeners,Power Streamers,REVIEWED

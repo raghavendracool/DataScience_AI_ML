@@ -1,0 +1,5 @@
+persona,evidence_complete,stable_across_seeds,profile_stable,stakeholder_reviewed,fairness_reviewed,business_test_defined,success_metrics_defined
+Casual Snackers,True,True,True,False,False,False,False
+Exploratory Samplers,True,True,True,False,False,False,False
+Habitual Loyalists,True,True,True,False,False,False,False
+Power Streamers,True,True,True,False,False,False,False

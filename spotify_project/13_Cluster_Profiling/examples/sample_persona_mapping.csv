@@ -1,0 +1,5 @@
+cluster,persona_name,primary_behavior,business_action
+Cluster 0,Casual Snackers,Low usage and high skipping,Re-engagement and simple personalized playlists
+Cluster 1,Exploratory Samplers,Moderate usage and broad exploration,Discovery-led recommendations and trial offers
+Cluster 2,Habitual Loyalists,Consistent usage and strong repeat behavior,"Retention, loyalty rewards and artist updates"
+Cluster 3,Power Streamers,Very high usage and low content friction,Premium conversion and high-value experiences

@@ -1,0 +1,5 @@
+scenario,average_monthly_revenue_per_user,monthly_retention_rate,gross_margin_rate,discount_rate_monthly,illustrative_clv
+Current State,3.6,0.955,0.72,0.01,47.1273
+Retention Improvement,3.7,0.965,0.72,0.01,59.2
+Premium Conversion Improvement,4.2,0.958,0.73,0.01,58.9615
+Combined Growth Scenario,4.35,0.968,0.73,0.01,75.6071

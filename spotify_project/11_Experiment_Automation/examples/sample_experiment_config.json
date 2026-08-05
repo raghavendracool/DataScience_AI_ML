@@ -1,0 +1,39 @@
+{
+  "feature_sets": {
+    "core": [
+      "daily_listening_minutes",
+      "sessions_per_day",
+      "avg_session_minutes",
+      "days_active_last_30",
+      "skip_rate",
+      "ads_skipped_pct"
+    ]
+  },
+  "preprocessors": [
+    "standard",
+    "robust",
+    "power"
+  ],
+  "kmeans_k_values": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "gmm_component_values": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "gmm_covariance_types": [
+    "full",
+    "tied",
+    "diag",
+    "spherical"
+  ],
+  "random_state": 42,
+  "silhouette_sample_size": 10000
+}
